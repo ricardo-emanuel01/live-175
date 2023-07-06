@@ -1,5 +1,7 @@
 # API REST
 
+[Flask](https://flask.palletsprojects.com/en/2.3.x/), [Pydantic](https://docs.pydantic.dev/latest/) e [TinyDB](https://tinydb.readthedocs.io/en/latest/)
+
 ## API --> Application Programming Interface
 
 É um conjunto de definições e protocolos usados no **desenvolvimento** e na **integração** de aplicações.  
